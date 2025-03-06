@@ -6,3 +6,8 @@ body {
 h1 {
     color: yellow;
 }
+
+p {
+    background-color: yellowgreen;
+    color: black;
+}
